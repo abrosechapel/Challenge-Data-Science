@@ -66,6 +66,12 @@ Copiar
 Editar
 git clone https://github.com/abrosechapel/Challenge-Data-Science.git
 cd nChallenge-Data-Science
+```bash
+Copiar
+Editar
+git clone https://github.com/abrosechapel/Challenge-Data-Science.git
+cd Challenge-Data-Science
+```
 
 -Abre el notebook:
 
